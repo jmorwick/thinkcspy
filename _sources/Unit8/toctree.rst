@@ -15,4 +15,10 @@ Classes and Objects - the Basics
    ConvertinganObjecttoaString.rst
    InstancesasReturnValues.rst
    Glossary.rst
-   Exercises.rst
+   Exercises.rst   
+   Fractions.rst
+   ObjectsareMutable.rst
+   Sameness.rst
+   ArithmeticMethods.rst
+   Glossary.2rst
+   Exercises2.rst
