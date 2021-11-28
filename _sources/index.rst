@@ -52,10 +52,8 @@ Table of Contents
    :numbered:
    :maxdepth: 3
 
-   GeneralIntro/toctree.rst
-   SimplePythonData/toctree.rst
-   Debugging/toctree.rst
-   PythonTurtle/toctree.rst
+   Unit1/toctree.rst
+   Unit2/toctree.rst
    PythonModules/toctree.rst
    Functions/toctree.rst
    Selection/toctree.rst
@@ -65,13 +63,10 @@ Table of Contents
    Files/toctree.rst
    Dictionaries/toctree.rst
    Exceptions/toctree.rst
-   WebApps/toctree.rst
-   GUIandEventDrivenProgramming/toctree.rst
    IntroRecursion/toctree.rst
    ClassesBasics/toctree.rst
    ClassesDiggingDeeper/toctree.rst
    Inheritance/toctree.rst
-   UnitTesting/toctree.rst
 
 Labs
 ::::

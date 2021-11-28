@@ -19,3 +19,13 @@ More About Iteration
    ImageProcessingonYourOwn.rst
    Glossary.rst
    Exercises.rst
+   WhatIsRecursion.rst
+   CalculatingtheSumofaListofNumbers.rst
+   TheThreeLawsofRecursion.rst
+   ConvertinganIntegertoaStringinAnyBase.rst
+   intro-VisualizingRecursion.rst
+   SierpinskiTriangle.rst
+   Glossary.rst
+   ProgrammingExercises.rst
+   Exercises.rst
+   
