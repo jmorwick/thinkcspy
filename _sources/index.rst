@@ -54,19 +54,13 @@ Table of Contents
 
    Unit1/toctree.rst
    Unit2/toctree.rst
-   PythonModules/toctree.rst
-   Functions/toctree.rst
-   Selection/toctree.rst
-   MoreAboutIteration/toctree.rst
-   Strings/toctree.rst
-   Lists/toctree.rst
-   Files/toctree.rst
-   Dictionaries/toctree.rst
-   Exceptions/toctree.rst
-   IntroRecursion/toctree.rst
-   ClassesBasics/toctree.rst
-   ClassesDiggingDeeper/toctree.rst
-   Inheritance/toctree.rst
+   Unit3/toctree.rst
+   Unit4/toctree.rst
+   Unit5/toctree.rst
+   Unit6/toctree.rst
+   Unit7/toctree.rst
+   Unit8/toctree.rst
+
 
 Labs
 ::::
